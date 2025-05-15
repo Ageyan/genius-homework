@@ -1,0 +1,101 @@
+.reincarnation-section {
+    padding-top: 28px;
+    padding-bottom: 52px;
+
+    @media screen and (min-width: $bp-tablet) {
+        padding-top: 0;
+        padding-bottom: 88px;
+    }
+
+    &__container {
+        display: flex;
+        position: relative;
+        gap: 32px;
+        justify-content: space-between;
+    }
+
+    &__content {
+        padding-top: 0px;
+
+        @media screen and (min-width: $bp-tablet) {
+            max-height: 459px;
+            flex-basis: 58%;
+            padding-top: 40px;
+        }
+    }
+
+    &__title {
+        color: var(--color-primary-dark);
+        font-family: 'Roboto', sans-serif;
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 100%;
+        margin-bottom: 24px;
+        max-width: 260px;
+
+        @media screen and (min-width: $bp-tablet) {
+            font-family: 'Play', sans-serif;
+            font-size: 64px;
+            font-weight: 700;
+            margin-bottom: 40px;
+            max-width: 529px;
+        }
+    }
+
+    &__text {
+        font-size: 18px;
+        line-height: 100%;
+        margin-bottom: 16px;
+        line-height: 1.17;
+
+        @media screen and (min-width: $bp-tablet) {
+            font-size: 22px;
+            line-height: 1.73;
+            margin-bottom: 40px;
+        }
+
+        &--limited {
+            margin-bottom: 0px;
+            max-width: 70%;
+
+            @media screen and (min-width: $bp-tablet) {
+                max-width: none;
+            }
+        }
+    }
+
+    &__text-color {
+        font-weight: 700;
+        text-transform: capitalize;
+
+        @media screen and (min-width: $bp-tablet) {
+            font-weight: 600;
+        }
+    }
+
+    &__images {
+        display: none;
+
+        @media screen and (min-width: $bp-desktop) {
+            display: flex;
+            flex-direction: column;
+            height: 695px;
+            flex-basis: 42%;
+        }
+    }
+
+    &__image {
+        border-radius: 50%;
+        box-shadow: 0px 4px 4px rgba(168, 198, 245, 0.2);
+        width: 327px;
+        height: 327px;
+    }
+
+    &__first-image {
+        margin-bottom: 41px;
+    }
+
+    &__second-image {
+        align-self: flex-end;
+    }
+}
