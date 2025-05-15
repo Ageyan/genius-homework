@@ -1,0 +1,21 @@
+.procedures-card {
+    position: relative;
+    display: flex;
+    border-radius: 4px 120px;
+    height: 456px;
+    background-image: linear-gradient(180.05deg,
+        rgba(1, 28, 68, 0) 48.53%,
+        rgba(1, 28, 68, 0.725825) 84.61%,
+        #011c44 101.39%);
+    overflow: hidden;
+
+    &__image {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+}
+
