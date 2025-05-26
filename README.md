@@ -5,6 +5,6 @@
 [Homework 4](https://ageyan.github.io/genius-homework-4/)
 
 [JavaScript] <br>
-[Homework 1](https://ageyan.github.io/genius-homework-js-1/) <br>
+[Homework 1](https://github.com/Ageyan/genius-homework/tree/main/genius-homework-js-1) <br>
 [Homework 2](https://ageyan.github.io/genius-homework-js-2/) <br>
 [Homework 3](https://ageyan.github.io/genius-homework-js-3/) <br>
