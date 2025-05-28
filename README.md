@@ -8,3 +8,4 @@
 [Homework 1](https://github.com/Ageyan/genius-homework-js-1) <br>
 [Homework 2](https://github.com/Ageyan/genius-homework-js-2) <br>
 [Homework 3](https://github.com/Ageyan/genius-homework-js-3) <br>
+[Homework 4](https://github.com/Ageyan/genius-homework-js-4)
