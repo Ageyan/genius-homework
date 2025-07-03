@@ -11,5 +11,5 @@
 [Homework 4](https://github.com/Ageyan/genius-homework-js-4)
 
 [Project] <br>
-[Harry Potter Website]((https://ageyan.github.io/harry-potter-website/)) <br>
+[Harry Potter Website](https://ageyan.github.io/harry-potter-website/)
 
