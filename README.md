@@ -13,3 +13,5 @@
 [Project] <br>
 [Harry Potter Website](https://ageyan.github.io/harry-potter-website/)
 
+[Python] <br>
+[Homework 1]([https://ageyan.github.io/harry-potter-website/](https://github.com/Ageyan/study-python-fastapi/tree/main/home-work-1))
