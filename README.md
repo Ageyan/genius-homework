@@ -17,4 +17,4 @@
 [Homework 1](https://github.com/Ageyan/study-python-fastapi/tree/main/home-work-1) <br>
 [Homework 2](https://github.com/Ageyan/study-python-fastapi/tree/main/home-work-2) <br>
 [Homework 3](https://github.com/Ageyan/study-python-fastapi/tree/main/home-work-3) <br>
-[Homework 3](https://github.com/Ageyan/study-python-fastapi/tree/main/home-work-4)
+[Homework 4](https://github.com/Ageyan/study-python-fastapi/tree/main/home-work-4)
